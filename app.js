@@ -1,7 +1,6 @@
 import express from "express";
 import cors from "cors";
 const app = express();
-// import { json } from "body-parser";
 
 import appRoutes from "./routes/index.js";
 
